@@ -1,1 +1,1 @@
-password = 'AKIAIOSFODNN7EXAMPLE'
+api_key = "sk_test_1234567890abcdefghijklmnopqrstuvwxyz"
