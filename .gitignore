@@ -1,4 +1,6 @@
-terraform.tfstate
-terraform.tfstate.backup
 .terraform/
-.terraform
+*.tfstate
+*.tfstate.*
+*.tfplan
+terraform.tfvars
+gitleaks-test.txt
